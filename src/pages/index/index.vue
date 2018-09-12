@@ -1,6 +1,9 @@
 <template>
   <div>
-    首页
+    <div class="header">
+      <icon type="search"></icon>
+      <input type="text">
+    </div>
   </div>
 </template>
 
@@ -9,6 +12,6 @@ export default {
 }
 </script>
 
-<style>
+<style >
 
 </style>
